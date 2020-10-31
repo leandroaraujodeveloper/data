@@ -8,6 +8,10 @@
     {
       "label": "Conference schedule",
       "url": "https://us.pycon.org/2020/online/"
+    },
+    {
+      "label": "Talk slides and code",
+      "url": "https://github.com/codereport/Talks/tree/master/2020-04-PyCon/BeautifulPythonRefactoring"
     }
   ],
   "speakers": [
